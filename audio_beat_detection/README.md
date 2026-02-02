@@ -1,0 +1,21 @@
+## Folder structure
+
+Use the following folder structure for evaluation:
+```
+input_folder
+├── Ground-Truth
+│   ├── Dataset1
+│   │   ├── track1.lab
+│   │   └── ...
+│   └── ...
+├── 2025 (args.year)
+│   ├── Submission1
+│   │   ├── Dataset1
+│   │   │   ├── track1.lab
+│   │   │   └── ...
+│   │   └── ...
+│   └── ...
+└── ...
+```
+
+## Baselines
