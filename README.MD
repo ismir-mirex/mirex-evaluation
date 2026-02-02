@@ -5,6 +5,7 @@
 This is the open-source repo for all tasks evaluated by MIREX. It contains the following content:
 
 * The evaluation code for each task (excluding those with proprietary code).
+* Public label files for each tasks (audio is not included).
 * Information about the baselines used in each task.
 * Information about the datasets used in each task.
 
