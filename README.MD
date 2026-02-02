@@ -15,7 +15,7 @@ The repo will be updated each year to reflect changes in the evaluation process.
 1. Clone the repository
 2. Install python 3.10
 3. Install pandas: ``pip install pandas>=1.5.3``
-4. Indivudual tasks might need additional dependencies. Please see task-specific READMEs. Common ones include: ``numpy>=1.26.4, mir_eval>=0.8.2``.
+4. Indivudual tasks might need additional dependencies. Please see task-specific READMEs. Common ones include: ``numpy>=1.26.4``, ``mir_eval>=0.8.2``
 
 ## Usage
 
