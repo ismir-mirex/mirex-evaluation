@@ -26,6 +26,10 @@ git config --global url."https://github.com/".insteadOf "git://github.com/"
 git clone --recursive https://github.com/jpauwels/MusOOEvaluator
 ```
 
+## Baselines
+
+Please see https://github.com/ismir-mirex/ace-task-captain-notes
+
 ## References
 
 https://github.com/jpauwels/MusOOEvaluator
