@@ -22,12 +22,12 @@ Please refer to task-specific README for details on the folder structure of `<in
 
 | Task Name                | README                                     | Evaluation | Baselines |
 |--------------------------|--------------------------------------------|------------|-----------|
-| audio_chord_estimation   | [Link](audio_chord_estimation/README.md)   | ✅          | ✅         |
-| audio_beat_detection     | [Link](audio_beat_detection/README.md)     | ✅          | ✅         |
-| audio_downbeat_detection | [Link](audio_downbeat_detection/README.md) | TBA        | TBA         |
-| audio_key_detection      | [Link](audio_key_detection/README.md)      | TBA        | TBA       |
-| music_structure_analysis | [Link](music_structure_analysis/README.md) | ✅          | ✅         |
-| lyrics_alignment         | [Link](lyrics_alignment/README.md)         | ✅          | ✅         |
+| audio_chord_estimation   | [Link](audio_chord_estimation/README.MD)   | ✅          | ✅         |
+| audio_beat_detection     | [Link](audio_beat_detection/README.MD)     | ✅          | ✅         |
+| audio_downbeat_detection | [Link](audio_downbeat_detection/README.MD) | TBA        | TBA         |
+| audio_key_detection      | [Link](audio_key_detection/README.MD)      | TBA        | TBA       |
+| music_structure_analysis | [Link](music_structure_analysis/README.MD) | ✅          | ✅         |
+| lyrics_alignment         | [Link](lyrics_alignment/README.MD)         | ✅          | ✅         |
 
 ## Example Usages
 
